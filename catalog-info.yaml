@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: video-aula-notas
+  annotations:
+    github.com/project-slug: matheus-arruda/video-aula-notas
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
